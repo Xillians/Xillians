@@ -20,6 +20,19 @@ My profile picture was created by [DeviCatOutlet][DeviCat]!
 [<img align="left" alt="Xillians | twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"/>][Twitter]
 [<img align="left" alt="Xillians | instagram" width="22px" src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png"/>][instagram]
 [<img align="left" alt="Xillians | twitch" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png"/>][twitch]
+<br>
+
+## Stats for nerds
+
+<details style="display:inline">
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="Xillians' GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Xillians&show_icons=true&hide_border=true" />
+</details>
+<br>
+<details style="display:inline">
+  <summary>Most used languages</summary>
+    <img align="left" alt="Xillians' top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
+</details>
 
 [DeviCat]:<https://twitter.com/DeviCatOutlet>
 [twitter]:<https://twitter.com/xillians>
