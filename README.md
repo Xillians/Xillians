@@ -1,5 +1,7 @@
 # Xillians profile
 
+![banner]
+
 ## Welcome to my profile page
 
 I'm Syver, aka Xillians. I'm a software tester
@@ -34,6 +36,7 @@ My profile picture was created by [DeviCatOutlet][DeviCat]!
     <img alt="Xillians' top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xillians">
 </details>
 
+[banner]:<./assets/images/Capture.PNG>
 [DeviCat]:<https://twitter.com/DeviCatOutlet>
 [twitter]:<https://twitter.com/xillians>
 [instagram]:<https://www.instagram.com/thexillyone/>
