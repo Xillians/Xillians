@@ -24,14 +24,14 @@ My profile picture was created by [DeviCatOutlet][DeviCat]!
 
 ## Stats for nerds
 
-<details>
+<details style="display:inline">
   <summary>GitHub Stats</summary>
-  <img align="left" alt="Xillians' GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Xillians&show_icons=true&hide_border=true" />
+  <img alt="Xillians' GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Xillians&show_icons=true&hide_border=true" />
 </details>
 <br>
-<details>
+<details style="display:inline">
   <summary>Most used languages</summary>
-    <img align="left" alt="Xillians' top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
+    <img alt="Xillians' top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
 </details>
 
 [DeviCat]:<https://twitter.com/DeviCatOutlet>
