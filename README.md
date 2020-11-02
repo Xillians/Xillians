@@ -31,7 +31,7 @@ My profile picture was created by [DeviCatOutlet][DeviCat]!
 <br>
 <details style="display:inline">
   <summary>Most used languages</summary>
-    <img alt="Xillians' top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
+    <img alt="Xillians' top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xillians">
 </details>
 
 [DeviCat]:<https://twitter.com/DeviCatOutlet>
