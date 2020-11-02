@@ -5,6 +5,14 @@
 I'm Syver, aka Xillians. I'm a software tester
 and a hobby artist!
 
+My hobbies include:
+
+🖌️ miniature painting
+
+🖋️ Stationeries 📚
+
+🎲 Tabletop & cardgames 🃏
+
 My profile picture was created by [DeviCatOutlet][DeviCat]!
 
 ### If you want to reach me, you can find me on the following
