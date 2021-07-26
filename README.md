@@ -15,7 +15,6 @@ My hobbies include:
 
 🎲 Tabletop & cardgames 🃏
 
-My profile picture was created by [DeviCatOutlet][DeviCat]!
 
 ### If you want to reach me, you can find me on the following
 
@@ -37,7 +36,6 @@ My profile picture was created by [DeviCatOutlet][DeviCat]!
 </details>
 
 [banner]:<./assets/images/Capture.PNG>
-[DeviCat]:<https://twitter.com/DeviCatOutlet>
 [twitter]:<https://twitter.com/xillians>
 [instagram]:<https://www.instagram.com/thexillyone/>
 [twitch]:<https://www.twitch.tv/xillians>
