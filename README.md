@@ -4,7 +4,7 @@
 
 ## Welcome to my profile page
 
-I'm Syver, aka Xillians. I'm a software tester
+I'm Xillians! I'm a software tester
 and a hobby artist!
 
 My hobbies include:
