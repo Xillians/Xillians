@@ -27,7 +27,7 @@ My hobbies include:
 
 <details style="display:inline">
   <summary>GitHub Stats</summary>
-  <img alt="Xillians' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xillians&show_icons=true&bg_color=DEG,#d62e02,#fd9855,#ffffff,#d161a2,#a20160" />
+  <img alt="Xillians' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xillians&show_icons=true&bg_color=d62e02,fd9855,ffffff,d161a2,a20160" />
 </details>
 <br>
 <details style="display:inline">
