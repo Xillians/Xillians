@@ -25,11 +25,9 @@ My hobbies include:
 
 ## Stats for nerds
 
-[![Xillians's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xillians)](https://github.com/anuraghazra/github-readme-stats)
-
 <details style="display:inline">
   <summary>GitHub Stats</summary>
-  <img alt="Xillians' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xillians&show_icons=true" />
+  <img alt="Xillians' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xillians&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10" />
 </details>
 <br>
 <details style="display:inline">
