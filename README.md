@@ -4,7 +4,7 @@
 
 ## Welcome to my profile page
 
-I'm Xillians! I'm a software tester
+I'm Xillians! I'm a software developer
 and a hobby artist!
 
 My hobbies include:
